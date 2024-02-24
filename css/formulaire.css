@@ -1,0 +1,54 @@
+
+header{
+    text-align: left;
+    color:green;
+}
+strong{
+    font-weight: bolder;
+    margin-left: 12px;
+    font-size: 20px;
+}
+.nomfac{
+    margin-left: 115px;
+    margin-bottom: 30px;
+    top:0px
+}
+h5{
+    text-align: right;
+    background-color: brown;
+    color: aliceblue;
+}
+
+img{
+    width:70px ;
+    height: 70px;
+    top:88px;
+    margin-left: 30px;
+    position: relative;
+}
+h1{
+    font-weight: bolder;
+    color: rgb(5, 5, 156);
+    margin-top: 60px;
+}
+label{   
+     color: rgb(5, 5, 156);
+     
+   
+}
+input,button{
+    margin-bottom: 25px;
+}
+
+hr{
+   
+    height: 2px;
+    border-width: 0;
+    background-color: brown;
+}
+select{
+    height: 20px;
+    margin-bottom: 10px;
+}
+
+

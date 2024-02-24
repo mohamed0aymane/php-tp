@@ -1,0 +1,22 @@
+
+
+h1{
+    font-weight: bolder;
+    color: rgb(5, 5, 156);
+    margin-top: 60px;
+}
+p{
+    color: rgb(5, 5, 156);
+    margin-top: 60px;}
+
+hr{
+    
+    height: 2px;
+    border-width: 0;
+    background-color: brown;
+}
+form{
+    margin-top: 150px;
+}
+
+
